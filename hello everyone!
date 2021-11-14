@@ -1,0 +1,2 @@
+print('Hello, everyone!')
+print('I'm a python file inside a docker container')
